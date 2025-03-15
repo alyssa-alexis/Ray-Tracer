@@ -7,7 +7,6 @@
 #include <memory>
 #include <vector>
 #include <SDL.h>
-#include "image.hpp"
 #include "camera.hpp"
 #include "./CM-Primitives/objsphere.hpp"
 #include "./CM-Primitives/objplane.hpp"
