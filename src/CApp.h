@@ -6,7 +6,6 @@
 #define CAPP_H
 
 #include "SDL.h"
-#include "./CM-RayTrace/image.hpp"
 #include "./CM-RayTrace/scene.hpp"
 #include "./CM-RayTrace/camera.hpp"
 #include "./CM-RayTrace/CM-Textures/flat.hpp"
