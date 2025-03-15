@@ -5,3 +5,4 @@ Linear Algebra operations are from QB's [library](https://github.com/Quantitativ
 
 
 ## Sample Image
+![Image](https://github.com/user-attachments/assets/10405d62-d84e-4153-9eb6-56f21d59bf23)
